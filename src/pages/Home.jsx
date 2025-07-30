@@ -6,7 +6,6 @@ export default function Home() {
     <section className="bg-gradient-to-br from-indigo-50 to-cyan-50">
       <div className="max-w-6xl mx-auto px-4 py-16 md:py-24 grid md:grid-cols-2 gap-10 items-center">
         <div>
-          <span className="inline-block text-xs px-2 py-1 rounded bg-slate-900 text-white">Courses first</span>
           <h1 className="mt-4 text-4xl md:text-5xl font-extrabold text-slate-900 leading-tight">
             Find the right <span className="underline decoration-sky-400 decoration-4 underline-offset-4">course & college</span> — then everything around it.
           </h1>
