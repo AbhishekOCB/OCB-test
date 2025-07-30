@@ -3,7 +3,8 @@ import { Outlet, NavLink, useNavigate } from 'react-router-dom'
 import { useAuth } from '../utils/auth'
 
 export default function AppLayout() {
-  const { user, logout } = useAuth()
+  const auth = useAuth() || {}          // <-- guard
+  const { user, logout } = auth         // <-- won’t crash if null
   const navigate = useNavigate()
 
   return (
