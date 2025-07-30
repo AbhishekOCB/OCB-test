@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Sunrise PG",
+    "category": "PG",
+    "budget": 9000,
+    "rating": 4.2,
+    "amenities": [
+      "Wifi",
+      "Meals"
+    ],
+    "distance": 1.2,
+    "verified": true,
+    "lat": 28.545,
+    "lng": 77.335
+  },
+  {
+    "name": "Metro View Hostel",
+    "category": "Hostel",
+    "budget": 12000,
+    "rating": 4.0,
+    "amenities": [
+      "AC",
+      "Laundry"
+    ],
+    "distance": 2.0,
+    "verified": true,
+    "lat": 28.547,
+    "lng": 77.34
+  },
+  {
+    "name": "Campus Diner",
+    "category": "Food",
+    "budget": 2000,
+    "rating": 4.1,
+    "amenities": [
+      "Veg",
+      "Delivery"
+    ],
+    "distance": 0.4,
+    "verified": false,
+    "lat": 28.546,
+    "lng": 77.331
+  },
+  {
+    "name": "FitNation Gym",
+    "category": "Gym",
+    "budget": 1500,
+    "rating": 4.3,
+    "amenities": [
+      "Weights",
+      "Cardio"
+    ],
+    "distance": 0.9,
+    "verified": true,
+    "lat": 28.543,
+    "lng": 77.329
+  },
+  {
+    "name": "City Salon",
+    "category": "Salon",
+    "budget": 800,
+    "rating": 4.0,
+    "amenities": [
+      "Hair",
+      "Spa"
+    ],
+    "distance": 1.5,
+    "verified": false,
+    "lat": 28.541,
+    "lng": 77.328
+  },
+  {
+    "name": "Quick Rentals",
+    "category": "Rental",
+    "budget": 3000,
+    "rating": 3.9,
+    "amenities": [
+      "Bikes",
+      "Cycles"
+    ],
+    "distance": 1.8,
+    "verified": true,
+    "lat": 28.549,
+    "lng": 77.332
+  }
+]

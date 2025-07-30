@@ -1,0 +1,73 @@
+[
+  {
+    "slug": "amity-university-noida",
+    "name": "Amity University, Noida",
+    "city": "Noida",
+    "state": "UP",
+    "fees": "\u20b9120000",
+    "entrance": "CUET",
+    "facilities": [
+      "Hostel",
+      "Labs",
+      "Sports"
+    ],
+    "programs": [
+      "BBA",
+      "BTech",
+      "MBA"
+    ],
+    "brochure": "PDF",
+    "reviews": "4.1/5",
+    "coords": [
+      28.544,
+      77.333
+    ]
+  },
+  {
+    "slug": "galgotias-university",
+    "name": "Galgotias University",
+    "city": "Greater Noida",
+    "state": "UP",
+    "fees": "\u20b9110000",
+    "entrance": "CUET",
+    "facilities": [
+      "Library",
+      "Labs"
+    ],
+    "programs": [
+      "BCom",
+      "BCA",
+      "MBA"
+    ],
+    "brochure": "PDF",
+    "reviews": "4.0/5",
+    "coords": [
+      28.474,
+      77.503
+    ]
+  },
+  {
+    "slug": "sgt-university-gurugram",
+    "name": "SGT University, Gurugram",
+    "city": "Gurugram",
+    "state": "HR",
+    "fees": "\u20b9100000",
+    "entrance": "Merit/CUET",
+    "facilities": [
+      "Hostel",
+      "Sports",
+      "Clinics"
+    ],
+    "programs": [
+      "BBA",
+      "BDS",
+      "BPT"
+    ],
+    "brochure": "PDF",
+    "reviews": "4.2/5",
+    "coords": [
+      28.482,
+      76.813
+    ]
+  }
+]
