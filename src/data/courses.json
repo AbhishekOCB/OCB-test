@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "BBA",
+    "stream": "Management",
+    "degree": "UG",
+    "duration": "3 Years",
+    "exams": ["CUET"],
+    "feesRange": "₹1.0L – ₹2.0L / year",
+    "collegesCount": 120,
+    "sampleColleges": ["Amity", "SGT", "Galgotias"]
+  },
+  {
+    "id": 2,
+    "name": "B.Tech (CSE)",
+    "stream": "Engineering",
+    "degree": "UG",
+    "duration": "4 Years",
+    "exams": ["JEE Main", "CUET"],
+    "feesRange": "₹1.5L – ₹3.0L / year",
+    "collegesCount": 210,
+    "sampleColleges": ["Amity", "Galgotias"]
+  },
+  {
+    "id": 3,
+    "name": "BCA",
+    "stream": "IT & Computer Applications",
+    "degree": "UG",
+    "duration": "3 Years",
+    "exams": ["CUET"],
+    "feesRange": "₹90K – ₹1.8L / year",
+    "collegesCount": 150,
+    "sampleColleges": ["SGT", "Amity"]
+  },
+  {
+    "id": 4,
+    "name": "MBA",
+    "stream": "Management",
+    "degree": "PG",
+    "duration": "2 Years",
+    "exams": ["CAT", "MAT", "XAT", "CUET-PG"],
+    "feesRange": "₹2.0L – ₹5.0L / year",
+    "collegesCount": 95,
+    "sampleColleges": ["SGT", "Amity"]
+  },
+  {
+    "id": 5,
+    "name": "B.Com (Hons)",
+    "stream": "Commerce & Finance",
+    "degree": "UG",
+    "duration": "3 Years",
+    "exams": ["CUET"],
+    "feesRange": "₹60K – ₹1.2L / year",
+    "collegesCount": 80,
+    "sampleColleges": ["SGT"]
+  },
+  {
+    "id": 6,
+    "name": "BDS",
+    "stream": "Medicine & Health Sciences",
+    "degree": "UG",
+    "duration": "4 Years + 1 Year Internship",
+    "exams": ["NEET"],
+    "feesRange": "₹2.0L – ₹4.0L / year",
+    "collegesCount": 35,
+    "sampleColleges": ["SGT"]
+  },
+  {
+    "id": 7,
+    "name": "BPT",
+    "stream": "Allied Health",
+    "degree": "UG",
+    "duration": "4 Years + 6 Months Internship",
+    "exams": ["CUET", "Institutional"],
+    "feesRange": "₹1.2L – ₹2.2L / year",
+    "collegesCount": 40,
+    "sampleColleges": ["SGT"]
+  },
+  {
+    "id": 8,
+    "name": "MCA",
+    "stream": "IT & Computer Applications",
+    "degree": "PG",
+    "duration": "2 Years",
+    "exams": ["CUET-PG"],
+    "feesRange": "₹1.2L – ₹2.0L / year",
+    "collegesCount": 55,
+    "sampleColleges": ["Amity", "SGT"]
+  }
+]
